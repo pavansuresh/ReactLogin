@@ -1,5 +1,5 @@
 import { useRef, useState, useEffect } from "react";
-import axios from "axios";
+import axios from './api/axios';
 
 // icons
 import {

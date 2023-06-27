@@ -1,6 +1,7 @@
 # ReactLogin
 
-to run file locally 
-cd file name
-npm install
-npm run dev
+cd app
+### `npm install`
+### `npm run dev`
+
+
